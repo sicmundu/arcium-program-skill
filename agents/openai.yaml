@@ -1,4 +1,4 @@
 interface:
   display_name: "Arcium Program Development"
-  short_description: "Implement and debug Arcium MXE program flows"
-  default_prompt: "Use $arcium-program-development to implement or fix this Arcium computation end-to-end."
+  short_description: "Exhaustive Arcium program implementation, migration, and debugging playbook with reusable templates"
+  default_prompt: "Use $arcium-program-development to implement or debug this Arcium computation end-to-end, following the decision tree, references, and templates in assets/templates."
