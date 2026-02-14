@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arcium Program Development"
+  short_description: "Implement and debug Arcium MXE program flows"
+  default_prompt: "Use $arcium-program-development to implement or fix this Arcium computation end-to-end."
